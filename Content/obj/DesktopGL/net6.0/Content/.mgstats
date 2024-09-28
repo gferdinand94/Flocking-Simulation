@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/gferd/source/repos/FlockingSimulation/Content/Arrow_White.png","C:/Users/gferd/source/repos/FlockingSimulation/Content/bin/DesktopGL/Content/Arrow_White.xnb","TextureProcessor","Texture2DContent",616,49237,0.2641485
+"C:/Users/gferd/source/repos/FlockingSimulation/Content/Arrow.png","C:/Users/gferd/source/repos/FlockingSimulation/Content/bin/DesktopGL/Content/Arrow.xnb","TextureProcessor","Texture2DContent",619,49237,0.550065
