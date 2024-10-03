@@ -25,3 +25,4 @@ C:\Users\gferd\source\repos\FlockingSimulation\obj\Debug\net6.0\FlockingSimulati
 C:\Users\gferd\source\repos\FlockingSimulation\obj\Debug\net6.0\FlockingSimulation.genruntimeconfig.cache
 C:\Users\gferd\source\repos\FlockingSimulation\obj\Debug\net6.0\ref\FlockingSimulation.dll
 C:\Users\gferd\source\repos\FlockingSimulation\bin\Debug\net6.0\Content\Arrow_White.xnb
+C:\Users\gferd\source\repos\FlockingSimulation\obj\Debug\net6.0\FlockingSimulation.sourcelink.json
