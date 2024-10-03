@@ -8,6 +8,7 @@ namespace FlockingSimulation
     class Bird : Animal
     {
 
+        // variables unique to Bird objects
         private float visibleRange = 150f;
         private float protectedRange = 25f;
         private float avoid = 0.04f;
