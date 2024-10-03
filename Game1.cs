@@ -15,7 +15,7 @@ namespace FlockingSimulation
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         private Texture2D line;
-        private int resolution = 60;//30;
+        private int resolution = 100;//30;
         private int rows, cols;
         private List<List<List<Bird>>> grid;
         private Bird[] birds;
