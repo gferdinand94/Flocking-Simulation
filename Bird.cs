@@ -13,7 +13,7 @@ namespace FlockingSimulation
         private float protectedRange = 25f;
         private float avoid = 0.04f;
         private float matchSpeed = 0.035f;
-        private float centering = 0.0002f;
+        private float centering = 0.0004f;
         private float topMargin, bottomMargin, leftMargin, rightMargin;
         private Random rand = new Random();
         int totalRows; int totalCols;
