@@ -225,22 +225,22 @@ namespace FlockingSimulation
             { 
                 if (position.X < predator.position.X)
                 {
-                    velocity.X -= 1500f * (float)g.ElapsedGameTime.TotalSeconds;
+                    velocity.X -= 1200f * (float)g.ElapsedGameTime.TotalSeconds;
                     tooClose = true;
                 }
                 if (position.X > predator.position.X)
                 {
-                    velocity.X += 1500f * (float)g.ElapsedGameTime.TotalSeconds;
+                    velocity.X += 1200f * (float)g.ElapsedGameTime.TotalSeconds;
                     tooClose = true;
                 }
                 if (position.Y < predator.position.Y)
                 {
-                    velocity.Y -= 1500f * (float)g.ElapsedGameTime.TotalSeconds;
+                    velocity.Y -= 1200f * (float)g.ElapsedGameTime.TotalSeconds;
                     tooClose = true;
                 }
                 if (position.Y > predator.position.Y)
                 {
-                    velocity.Y += 1500f * (float)g.ElapsedGameTime.TotalSeconds;
+                    velocity.Y += 1200f * (float)g.ElapsedGameTime.TotalSeconds;
                     tooClose = true;
                 }
                 if (tooClose)

@@ -15,7 +15,7 @@ namespace FlockingSimulation
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         private Texture2D line;
-        private int resolution = 30;
+        private int resolution = 60;//30;
         private int rows, cols;
         private List<List<List<Bird>>> grid;
         private Bird[] birds;
@@ -49,7 +49,7 @@ namespace FlockingSimulation
             line.SetData(new[] { Color.Gray });
 
             // Several Birds
-            birds = new Bird[2000];
+            birds = new Bird[1000];
 
             predator = new Predator(
                 rand.Next(150, _graphics.PreferredBackBufferWidth - 150),
